@@ -97,17 +97,6 @@ Retail-Sales-Analysis
 └── README.md
 ```
 
----
-
-## 📊 Dataset
-
-This project uses the **Superstore Sales Analytics Dataset (2026)**, a publicly available dataset from Kaggle, for educational and portfolio purposes.
-
-**Dataset Source:**
-https://www.kaggle.com/datasets/nafeesalmahadi/superstore-sales-analytics-dataset-2026
-
-The dataset was **not created by me**.
-
 My contributions include:
 
 - Data Cleaning
@@ -119,6 +108,15 @@ My contributions include:
 - Data Visualization
 
 ---
+
+## 📊 Dataset
+
+This project uses the **Superstore Sales Analytics Dataset (2026)**, a publicly available dataset from Kaggle, for educational and portfolio purposes.
+
+**Dataset Source:**
+
+
+The dataset was **not created by me**.
 
 ## 👤 Author
 
