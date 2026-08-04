@@ -114,7 +114,7 @@ My contributions include:
 This project uses the **Superstore Sales Analytics Dataset (2026)**, a publicly available dataset from Kaggle, for educational and portfolio purposes.
 
 **Dataset Source:**
-
+https://www.kaggle.com/datasets/nafeesalmahadi/superstore-sales-analytics-dataset-2026
 
 The dataset was **not created by me**.
 
